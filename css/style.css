@@ -1,0 +1,16 @@
+#judul{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    height: 100px;
+}
+#navigasi{
+    transition: top 0.5s;
+}
+html{
+    scroll-behavior: smooth;
+}
+#tombolList{
+    bottom: 0;
+    position: relative;
+}
